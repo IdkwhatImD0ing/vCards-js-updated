@@ -1,7 +1,7 @@
 {
   "name": "vcards-js",
   "version": "2.10.0",
-  "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
+  "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more. This is a updated and maintained version of the original vCards-js library.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -16,19 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enesser/vCards-js.git"
+    "url": "https://github.com/IdkwhatImD0ing/vCards-js-updated.git"
   },
   "keywords": [
     "vCard",
     "vCards",
     "contacts"
   ],
-  "author": "Eric J Nesser",
+  "author": "Bill Zhang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enesser/vCards-JS/issues"
+    "url": "https://github.com/IdkwhatImD0ing/vCards-js-updated/issues"
   },
-  "homepage": "https://github.com/enesser/vCards-JS",
+  "homepage": "https://github.com/IdkwhatImD0ing/vCards-js-updated",
   "contributors": [
     "Eric J Nesser <enesser@gmail.com> (https://github.com/enesser)",
     "Tobias Müller (https://github.com/webdepp)",
