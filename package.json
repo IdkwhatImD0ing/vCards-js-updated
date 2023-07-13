@@ -1,5 +1,5 @@
 {
-  "name": "vcards-js",
+  "name": "vcards-js-updated",
   "version": "2.10.1",
   "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more. This is a updated and maintained version of the original vCards-js library.",
   "main": "index.js",
